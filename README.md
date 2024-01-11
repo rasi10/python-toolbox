@@ -15,7 +15,7 @@ The functions are organized into files that has very suggestive names to what th
 Clone this project from github into a folder in your computer.
 
 ```
-git clone ...
+git clone https://github.com/rasi10/python-toolbox.git
 ```
 
 Create a Virtual Environment
