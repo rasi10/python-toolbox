@@ -12,5 +12,3 @@ def decrypt_string(encrypted_bytes):
     decrypted_bytes = cipher_suite.decrypt(encrypted_bytes)
     return decrypted_bytes.decode()
 
-if __name__ == "__main__":
-    pass

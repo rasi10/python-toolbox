@@ -1,7 +1,7 @@
 import psutil
 
 
-def services_services():
+def services_scanner():
     # Get a list of all running processes
     running_processes = psutil.process_iter(attrs=['pid', 'name'])
 
